@@ -1,6 +1,6 @@
 var store = [{
         "title": "Aprendiendo a usar un generador",
-        "excerpt":"Por fin es jueves   Y hoy por lo menos el cañón ha funcionado …   \\[f(x) = \\int_{-\\infty}^\\infty \\hat f(\\xi)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\] ","categories": ["docencia"],
+        "excerpt":"Por fin es jueves otra vez   Y hoy por lo menos el cañón ha funcionado …   \\[f(x) = \\int_{-\\infty}^\\infty \\hat f(\\xi)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\] ","categories": ["docencia"],
         "tags": [],
         "url": "/docencia/aet",
         "teaser": null
